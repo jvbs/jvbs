@@ -1,4 +1,4 @@
-## Hello world, my name is João Vitor! :zap:
+## >> Hello world, my name is João Vitor! :zap:
 
 I'm a Full-Stack Developer working at CREDZ, based in São Paulo - Brazil.
 
