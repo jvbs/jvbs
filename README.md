@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Developer working at CREDZ, based in São Paulo - Brazil.
 
-I enjoy coding open-source projects that solve or automate stuff in my life. I love combining my hobbies like RaspiberryPi with coding, building various projects and senior Linux distrohopper.
+I enjoy coding open-source projects that solve or automate stuff in my life. I love combining my hobbies with coding like RaspiberryPi projects and I'm also a senior Linux distrohopper.
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning .NET, Typescript and Design Patterns like DDD, Mediators and CQRS.
