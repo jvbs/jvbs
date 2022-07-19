@@ -11,7 +11,7 @@ I enjoy coding open-source projects that solve or automate stuff in my life. I l
 <!--- 👯 I’m looking to collaborate on ...-->
 
 ##
-My current stack
+### My current stack
 
 <div>
   <a href="#" target="_blank">
@@ -32,7 +32,7 @@ My current stack
 </div>
 <!--
 ##
-Reach me at
+### Reach me at
 <div>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
