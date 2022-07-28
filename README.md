@@ -8,7 +8,7 @@ I enjoy coding open-source projects that solve or automate stuff in my life. I l
 - 🌱 I’m currently learning .NET, Typescript and Design Patterns like DDD, Mediators and CQRS.
 - 😄 Pronouns: He/Him
 - ❤ Open Source
-<!--- 👯 I’m looking to collaborate on ...-->
+<!--- 👯 I’m looking to collaborate on ... -->
 
 ##
 ### My current stack
