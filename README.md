@@ -21,13 +21,13 @@ I enjoy coding open-source projects that solve or automate stuff in my life. I l
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target="_blank">
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
-  </a>
-  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
   </a>
 </div>
 <!--
