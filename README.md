@@ -1,6 +1,6 @@
 ## >> Hello world, my name is João Vitor! :zap:
 
-I'm a Full-Stack Developer working at CREDZ, based in São Paulo - Brazil.
+I'm a Full-Stack developer, based in São Paulo - Brazil.
 
 I enjoy coding open-source projects that solve or automate stuff in my life. I love combining my hobbies with coding like RaspiberryPi projects and I'm also a senior Linux distrohopper.
 
